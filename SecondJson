@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {"id": 1, "name": "The Godfather", "director":"Francis Ford Coppola", "rating": 9.1,
+        "Cinemas": [
+    {"cinema_name": "Lazer Vally Cinema", "date": "12-2-2018", "time":"5:25 PM"},
+    {"cinema_name": "Elante Mall", "date": "8-2-2018", "time": "6:20 PM"}
+   ]
+    },
+    {"id": 2, "name": "Casablanca", "director": "Michael Curtiz", "rating": 8.8,
+            "Cinemas": [
+    {"cinema_name": "Fun Republic", "date": "18-2-2018", "time":"11:25 AM"},
+    {"cinema_name": "Arti Cinema", "date": "6-3-2018", "time": "2:20 PM"}
+   ]
+    }
+  ]
+}
